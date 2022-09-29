@@ -10,6 +10,9 @@ scrcpy is a free and open-source screen mirroring application that allows contro
 The developer of this GUI app doesn't use the credit or rights of the 'scrcpy' project.The download file doesn't comes with scrcpy included.They should be downloaded separately from the original source.The Kiwi-GUI can be used as an extension for easier and simpler use.
 &nbsp;
 
+The Developer of Kiwi-GUi is not responsible of any miuse of code or the software and cannot warrenty the software.The users are requested to use at there on risk.
+&nbsp;
+
 The developer respects the herdwork of the scrcpy team and highly appreciate their effort. 
 
 &nbsp;

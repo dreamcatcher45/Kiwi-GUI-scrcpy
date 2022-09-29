@@ -1,15 +1,13 @@
 # Kiwi-GUI-scrcpy 🥝
 #### Minimalistic GUI for scrcpy🕊️
 &nbsp;
-
 Kiwi is an Minimalistic GUI software for the popular scrcpy software.The features are limited but is mostly enough for daily drive.
-
 ## About scrcpy 💡
 
 scrcpy is a free and open-source screen mirroring application that allows control of an Android device from a Windows, macOS, or Linux desktop computer. The software is currently developed by Genymobile, which also developed Genymotion, an Android emulator. (Wikipedia)
 
 ## Keep in Mind ⚠️
-The developer of this GUI app doesn't use the credit or rights of the 'scrcpy' progect.The download file doesn't comes with scrcpy included.They should be downloaded separately from the original source.The Kiwi-GUI can be used as an extension for easier and simpler use.
+The developer of this GUI app doesn't use the credit or rights of the 'scrcpy' project.The download file doesn't comes with scrcpy included.They should be downloaded separately from the original source.The Kiwi-GUI can be used as an extension for easier and simpler use.
 &nbsp;
 
 The developer respects the herdwork of the scrcpy team and highly appreciate their effort. 

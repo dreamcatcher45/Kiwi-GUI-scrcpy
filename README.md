@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/105426078/193314721-c85467aa-584e-4e8b
 - Don't forget to pin the app in taskbar or start for easier access.
 
 ## Issues with Download ❓
-- Some windows doesn't allow to download exe files from github.Try turning off Windows realtime protection and download.
+- Some windows doesn't allow to download exe files from github. Try turning off Windows realtime protection and download.
 - Don't forget to turn Windows realtime protection back on.
 
 ## Credits 💎
